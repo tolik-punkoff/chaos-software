@@ -1,0 +1,83 @@
+
+Обрабатываем C:\DOC\Flash\install\Chaossoft Ritual Visualiser.ci 20.12.2012 2:53:54
+Лог-файл: C:\DOC\Flash\install\Chaossoft Ritual Visualiser.log 
+Генерация исходников... 
+Компиляции Gentee исходников... 
+Создание файла установки: c:\setups\setup.exe 
+Добавление temporary файла(ов) к EXE 
+C:\Windows\Temp\gentee02\russian.lng 20.12.2012 2:53:55 3803  49.01%
+C:\Temp\release\help\license.txt 20.12.2012 2:35:20 693  72.43%
+C:\Program Files\CreateInstall Free\res\logo\default - 1.bmp 05.11.2002 11:52:24 7308  52.50%
+C:\Program Files\CreateInstall Free\res\leftimg\install\install - 1.bmp 10.11.2002 11:56:02 20678  33.42%
+C:\Program Files\CreateInstall Free\res\leftimg\uninstall\uninstall - 1.bmp 10.11.2002 11:56:02 20678  28.17%
+Создание файла установки: C:\Windows\Temp\gentee02\uninstall.exe 
+Добавление uninstall файла(ов) к EXE 
+Получение списка файлов 
+Упаковка файлов... 
+================================ 
+C:\temp\release\help\index.html 20.12.2012 2:40:50 24298  27.97%
+C:\temp\release\help\license.txt 20.12.2012 2:35:20 693  25.97%
+C:\temp\release\scenies\chaoflame.swf 20.12.2012 2:29:48 177222  100.00%
+C:\temp\release\scenies\chaoldoser.swf 20.12.2012 1:02:01 123915  100.00%
+C:\temp\release\scenies\chaorez.swf 19.12.2012 12:57:32 189972  100.00%
+C:\temp\release\scenies\chaovir.swf 19.12.2012 13:14:30 128774  100.00%
+C:\temp\release\scenies\hammer.swf 19.12.2012 22:56:09 120049  100.00%
+C:\temp\release\scenies\tome.swf 19.12.2012 13:16:45 168397  100.00%
+C:\temp\release\sounds\buttonClick.mp3 22.10.2012 16:26:24 3888  44.62%
+C:\temp\release\sounds\chrzSound.mp3 24.10.2012 0:25:14 5281459  100.00%
+C:\temp\release\sounds\dendSound.mp3 24.10.2012 19:49:32 10752  59.08%
+C:\temp\release\sounds\dfailSound.mp3 31.10.2012 18:29:12 262592  97.73%
+C:\temp\release\sounds\dmusicSound.mp3 16.10.2012 23:28:08 722989  97.52%
+C:\temp\release\sounds\doserSound.mp3 31.10.2012 7:48:04 443136  90.23%
+C:\temp\release\sounds\failSound.mp3 24.10.2012 20:04:18 647880  90.10%
+C:\temp\release\sounds\fchrzSound.mp3 25.10.2012 7:02:32 145494  87.16%
+C:\temp\release\sounds\flameSound.mp3 21.11.2012 20:15:46 298258  96.80%
+C:\temp\release\sounds\fmusicSound.mp3 19.12.2012 7:45:15 3219856  98.98%
+C:\temp\release\sounds\fVictimSound.mp3 19.12.2012 4:39:10 16010  60.24%
+C:\temp\release\sounds\hammerSound.mp3 03.11.2012 11:01:32 11264  95.58%
+C:\temp\release\sounds\hazardSound.mp3 16.10.2012 23:27:28 730846  100.00%
+C:\temp\release\sounds\hcrackSound.mp3 03.11.2012 18:01:04 69632  96.19%
+C:\temp\release\sounds\hendSound.mp3 03.11.2012 11:07:30 88064  97.34%
+C:\temp\release\sounds\hmusicSound.mp3 16.10.2012 23:35:46 621320  100.00%
+C:\temp\release\sounds\mainMenu.mp3 16.10.2012 23:28:18 725831  100.00%
+C:\temp\release\sounds\mozgSound.mp3 24.10.2012 19:49:32 10752  59.12%
+C:\temp\release\sounds\podyomSound.mp3 24.10.2012 10:21:14 23552  94.06%
+C:\temp\release\sounds\schrzSound.mp3 25.10.2012 7:08:20 46856  89.61%
+C:\temp\release\sounds\selectVictim.mp3 25.10.2012 23:02:58 6336  70.48%
+C:\temp\release\sounds\selectWeapon.mp3 23.10.2012 3:27:43 6144  71.69%
+C:\temp\release\sounds\sprizSound.mp3 24.10.2012 9:33:06 22400  89.38%
+C:\temp\release\sounds\thSound.mp3 16.10.2012 23:34:08 624893  100.00%
+C:\temp\release\sounds\tomeSound.mp3 23.10.2012 18:09:07 1209197  100.00%
+C:\temp\release\sounds\vchrzSound.mp3 25.10.2012 7:43:23 72384  77.02%
+C:\temp\release\sounds\victimSelected.mp3 25.10.2012 23:05:06 9600  75.87%
+C:\temp\release\sounds\victimSound.mp3 25.10.2012 4:05:48 58752  85.40%
+C:\temp\release\sounds\zombieSound.mp3 22.10.2012 16:30:14 326136  100.00%
+C:\temp\release\victims\antifashist.png 28.10.2012 3:34:39 20906  93.16%
+C:\temp\release\victims\bandit.png 20.12.2012 0:53:08 17631  100.02%
+C:\temp\release\victims\fashist.png 28.10.2012 3:47:17 14781  94.21%
+C:\temp\release\victims\gbsnik.png 28.10.2012 7:17:08 17932  97.33%
+C:\temp\release\victims\gop.png 20.12.2012 1:14:23 78496  100.00%
+C:\temp\release\victims\ment.png 28.10.2012 8:40:30 21014  100.02%
+C:\temp\release\victims\nashist.png 28.10.2012 3:50:34 12303  100.04%
+C:\temp\release\victims\ovosh.png 28.10.2012 5:23:31 12387  100.04%
+C:\temp\release\victims\pocr.png 20.12.2012 1:32:15 107493  100.00%
+C:\temp\release\victims\pop.png 28.10.2012 3:56:40 16016  100.03%
+C:\temp\release\victims\rushka.png 24.10.2012 8:58:50 20494  100.02%
+C:\temp\release\victims\vatnik.png 20.12.2012 2:06:40 108383  97.53%
+C:\temp\release\victims\victims.txt 20.12.2012 2:07:04 135  67.40%
+C:\temp\release\weapons\chaoflame.swf 19.12.2012 8:34:29 55645  100.00%
+C:\temp\release\weapons\chaoldoser.swf 19.12.2012 9:08:04 121903  100.00%
+C:\temp\release\weapons\chaorez.swf 19.12.2012 9:05:47 129368  100.00%
+C:\temp\release\weapons\chaovir.swf 19.12.2012 8:59:36 41955  100.01%
+C:\temp\release\weapons\hammer.swf 19.12.2012 9:10:11 116965  100.00%
+C:\temp\release\weapons\names.txt 19.12.2012 8:06:47 127  85.82%
+C:\temp\release\weapons\tome.swf 19.12.2012 9:01:43 220375  100.00%
+C:\temp\release\weapons\weapons.txt 19.12.2012 8:01:36 80  87.50%
+C:\temp\release\AddImage.exe 27.10.2012 5:56:07 32768  26.24%
+C:\temp\release\main.exe 19.12.2012 23:14:41 8896036  51.97%
+C:\temp\release\main.ico 05.02.2012 3:53:30 4286  66.96%
+C:\temp\release\main.swf 19.12.2012 23:14:41 805756  100.00%
+================================ 
+Все файлы: 62 [ 26877KB => 22408KB ] 
+Размер файла c:\setups\setup.exe: 22519 KB 
+Успешное окончание 20.12.2012 2:54:23

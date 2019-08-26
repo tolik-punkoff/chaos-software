@@ -1,0 +1,5 @@
+trace(Stage.width);
+trace(Stage.height);
+
+width - по y
+height - по x

@@ -1,0 +1,1 @@
+victims=antifashist.png,bandit.png,fashist.png,gbsnik.png,gop.png,ment.png,nashist.png,ovosh.png,pocr.png,pop.png,rushka.png,vatnik.png

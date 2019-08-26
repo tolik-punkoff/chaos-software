@@ -1,0 +1,1 @@
+weapons=spriz2.swf,chaorez2.swf,tome_of_chaos.swf

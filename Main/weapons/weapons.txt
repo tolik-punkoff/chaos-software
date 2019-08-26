@@ -1,0 +1,1 @@
+weapons=chaorez.swf,chaovir.swf,tome.swf,chaoldoser.swf,hammer.swf,chaoflame.swf
